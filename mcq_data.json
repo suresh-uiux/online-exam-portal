@@ -1,0 +1,36 @@
+{
+    "questions": [
+        {
+            "question": "What is UI?",
+            "options": [
+                "User Input",
+                "User Interface",
+                "User Interlook",
+                "User Indesign"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What is python single line commend?",
+            "options": [
+                "!",
+                "@",
+                "#",
+                "$"
+            ],
+            "answer": 3
+        }
+    ],
+    "results": [
+        {
+            "name": "suresh",
+            "score": 1,
+            "total": 1
+        },
+        {
+            "name": "ram",
+            "score": 0,
+            "total": 2
+        }
+    ]
+}
